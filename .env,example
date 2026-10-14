@@ -1,0 +1,1 @@
+DATABASE_URL=mysql+pymysql://your_user:your_password@localhost:3306/olist
